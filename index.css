@@ -1,0 +1,93 @@
+html {
+	background-image: linear-gradient(to bottom, #42f5b6, #29916d);
+  	background-size: cover;
+	min-height: 100vh;
+}
+body {
+	margin: 0px;
+}
+
+h2 {
+	margin-block-start: 0.3em;
+	margin-block-end: 0.3em;
+	margin-inline-start: 0.4em;
+	margin-inline-end: 0.4em;
+	font-family: 'Roboto', sans-serif;
+}
+
+button {
+	border: 1px solid black;
+	border-radius: 100px;
+	background: rgba(0, 0, 0, 0);
+	font-size: 3vh;
+}
+
+div#timer_cir {
+	height: 20vh;
+}
+
+div#timer_control {
+	padding-right: 30vh;
+	padding-left: 30vh;
+	text-align: center;
+	margin-top: 5vh;
+	margin-bottom: 5vh; 
+}
+
+div#start, div#pause, div#reset {
+
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 100px;
+}
+div#start {
+	background-color: #4287f5;
+}
+
+div#pause {
+	margin-left: 15vh;
+	margin-right: 15vh;
+	background-color: #dbc93b;
+}
+
+div#reset {
+	background-color: #db3e3b;
+}
+
+div#timer_num {
+	text-align: center;
+}
+
+div#points {
+	text-align: center;
+}
+
+div.card_row {
+	text-align: center;
+}
+
+div.card {
+	width: 15vh;
+	height: 20vh;
+	margin: 1vh;
+	background-color: black;
+	background-size: cover;
+	display: inline-block;
+	text-align: center;
+}
+
+div.point_price {
+	width: 90%;
+    height: 10%;
+    background-color: red;
+    background-size: cover;
+    display: inline-block;
+    margin-top: 5%;
+}
+
+
+
+
+
+
+
