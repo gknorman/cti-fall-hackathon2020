@@ -4,8 +4,11 @@
 ### Timer that Rewards points to Students for staying focused
 
 #### View Basic Mockup Here: https://gknorman.github.io/cti-fall-hackathon2020/index.html
+
 #### View React Mockup Here: https://11usz.csb.app/
 #### View React Mockup Code: https://github.com/upluke/Rewarder
+
+#### View Original Visual Mockup: https://github.com/gknorman/cti-fall-hackathon2020/blob/master/mockup002.pdf
 
 Hackathon Hosted by CTI-IPS
 https://nickguerrero.github.io/cti-ips-hack-2020/index.html
