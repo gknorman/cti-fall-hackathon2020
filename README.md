@@ -7,4 +7,5 @@ May Deng
 Boris Marin
 Geoffrey Norman
 
+This project contains a visual timer.  The user inputs how much time the student or students will work, according to the appropriate grade level.  
 
