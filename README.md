@@ -3,8 +3,8 @@
 ## Team 2's CTI Fall Hackathon Project for AdoptAClassroom.org
 ### Timer that Rewards points to Students for staying focused
 
-#### View Page Here: https://gknorman.github.io/cti-fall-hackathon2020/index.html
-
+#### View Basic Mockup Here: https://gknorman.github.io/cti-fall-hackathon2020/index.html
+#### View React Mockup Here: https://gknorman.github.io/cti-fall-hackathon2020/index.html
 Hackathon Hosted by CTI-IPS
 https://nickguerrero.github.io/cti-ips-hack-2020/index.html
 
