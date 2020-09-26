@@ -16,6 +16,16 @@ h2 {
 	display: inline-block;
 }
 
+h3 {
+	margin-block-start: 0em;
+	margin-block-end: 0em;
+	margin-inline-start: 0em;
+	margin-inline-end: 0em;
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	font-size: 1.2vw;
+}
+
 button {
 	border: 1px solid black;
 	border-radius: 100px;
@@ -68,6 +78,10 @@ div#points {
 	text-align: center;
 }
 
+div#points_head, div#curr_points {
+	display: inline-block;
+}
+
 div#cards {
 	height: 37vw;
 }
@@ -89,7 +103,7 @@ div.card {
 
 div.emoji {
 	display: inline-block;
-	background-image: url(emoji.png);
+	/*background-image: url(emoji.png);*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 50%;
@@ -104,10 +118,38 @@ div.emoji {
 div.point_price {
 	width: 90%;
     height: 10%;
-    background-color: red;
-    background-size: cover;
+/*    background-color: red;
+    background-size: cover;*/
     display: inline-block;
     margin-top: 5%;
+}
+
+div.card_description {
+	margin-top: 5%;
+}
+
+div#card1 {
+	background-image: url(newimages/fire.png);
+}
+
+div#card2 {
+	background-image: url(newimages/basketball.png);
+}
+
+div#card3 {
+	background-image: url(newimages/snack.png);
+}
+
+div#card4 {
+	background-image: url(newimages/candy.png);
+}
+
+div#card5 {
+	background-image: url(newimages/pancakes.png);
+}
+
+div#card6 {
+	background-image: url(newimages/champion.png);
 }
 
 
