@@ -30,5 +30,5 @@ function updateTimer() {
 	if(typeof(sec) !== "number" || sec < 1) {
 		sec = 0;
 	}
-	h2Ele.innerHTML = "Time Left: " +  min.padStart(2,'0') + ":" + sec.padStart(2,'0')
+	h2Ele.innerHTML = "Time Left: " +  min.toString().padStart(2,'0') + ":" + sec.toString().padStart(2,'0');
 }
