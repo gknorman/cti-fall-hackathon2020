@@ -13,6 +13,7 @@ h2 {
 	margin-inline-start: 0.4em;
 	margin-inline-end: 0.4em;
 	font-family: 'Roboto', sans-serif;
+	display: inline-block;
 }
 
 button {
